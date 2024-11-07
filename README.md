@@ -1,6 +1,6 @@
 # configure-ad
-
-
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+</p>
 <h2>Environments and Technologies Used</h2>
 <ul>
     <li>Microsoft Azure (Virtual Machines/Compute)</li>
